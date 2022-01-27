@@ -1,0 +1,23 @@
+{
+  "name": "odev1",
+  "description": "Odev1 scripts",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">14.0"
+  },
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "keywords": [
+    "node.js",
+    "axios"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "author": "kazimanilaydin"
+}
